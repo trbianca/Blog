@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/BlogPessoal/static/css/main.e6c13ad2.css",
+    "main.js": "/BlogPessoal/static/js/main.b0775c95.js",
+    "static/js/787.c45e1bca.chunk.js": "/BlogPessoal/static/js/787.c45e1bca.chunk.js",
+    "static/media/BiancaTrindade.jpg": "/BlogPessoal/static/media/BiancaTrindade.026bdf8ea062fcd991c0.jpg",
+    "static/media/GITHUBPNG.png": "/BlogPessoal/static/media/GITHUBPNG.fe697478c731d9d3aca1.png",
+    "static/media/INSTPNG.png": "/BlogPessoal/static/media/INSTPNG.7fb0f8266f707dbdad87.png",
+    "index.html": "/BlogPessoal/index.html",
+    "main.e6c13ad2.css.map": "/BlogPessoal/static/css/main.e6c13ad2.css.map",
+    "main.b0775c95.js.map": "/BlogPessoal/static/js/main.b0775c95.js.map",
+    "787.c45e1bca.chunk.js.map": "/BlogPessoal/static/js/787.c45e1bca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b0775c95.js"
+  ]
+}
